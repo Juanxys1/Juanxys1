@@ -1,4 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0a12f7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Juan+Pablo;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=740904&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Juan+Pablo;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="./kaneki-eye.gif" alt="Kaneki Eye Opening" width="400"/>
+</p>
+
+
+<p align="center">
+  <img src="./kaneki-eye.gif" alt="Kaneki Eye Opening" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -9,6 +18,5 @@
   <img src="https://img.shields.io/badge/php-%2300599C.svg?style=for-the-badge&logo=php&logoColor=green" alt="php" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=MYSQL&logoColor=white" alt="mySQL" />
 
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a12f7&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=740904&height=120&section=footer"/>
 </p>
