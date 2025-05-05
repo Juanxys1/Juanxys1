@@ -4,11 +4,6 @@
   <img src="./kaneki-eye-slow.gif" alt="Kaneki Eye Opening Slow" width="400"/>
 </p>
 
-
-<p align="center">
-  <img src="./kaneki-eye.gif" alt="Kaneki Eye Opening" width="400"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
